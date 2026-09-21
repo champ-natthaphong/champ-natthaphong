@@ -14,7 +14,7 @@ Specialized in Node.js ecosystem, real-time communication, IoT integrations, and
 ```
 Controller → Manager → Service → Repository
 ```
-NestJS · PostgreSQL · Prisma · Kafka (KRaft) · Docker Compose
+NestJS · PostgreSQL · TypeORM · Kafka · Docker Compose
 
 ---
 
